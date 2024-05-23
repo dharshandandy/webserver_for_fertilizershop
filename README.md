@@ -46,7 +46,7 @@ fertilizer-shop/
     Create a `.env` file in the root directory:
     ```env
     PORT=8080
-    MONGODB_URI=mongodb://localhost:27017/fertilizer-shop
+    MONGODB_URI=mongodb://localhost:27017/fertilizers
     SECRET_KEY=your_secret_key
     ```
 
