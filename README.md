@@ -33,7 +33,7 @@ fertilizer-shop/
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/fertilizer-shop.git
+    https://github.com/dharshandandy/webserver_for_fertilizershop.git
     cd fertilizer-shop
     ```
 
